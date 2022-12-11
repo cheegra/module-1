@@ -13,3 +13,120 @@ a:hover{text-decoration: none;}
 ul li{list-style: none;}
 img{vertical-align: top;}
 h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
+
+.main-block {
+    background-color: linear-gradient(180deg, #2081cc 0%, #da0808 19.4%);
+    max-width: 1600px;
+    max-height: 4192px;
+    position: relative;
+    
+}
+
+.header {
+}
+.header-content {
+}
+.header-content-logo {
+}
+.header-content-menu {
+}
+.header-content-men-button {
+}
+.body {
+}
+.body-top {
+}
+.body-top-content {
+}
+.body-top-title {
+}
+.body-top-title-text {
+}
+.body-top-text {
+}
+.body-top-button {
+}
+.body-top-button-text {
+}
+.body-mid-content {
+}
+.body-mid-title {
+}
+.body-mid-title-text {
+}
+.body-mid-text {
+}
+.body-bottom {
+}
+.body-bottom-title {
+}
+.body-bottom-title-text {
+}
+.body-bottom-title-subtext {
+}
+.body-bottom-content {
+}
+.body-bottom-content-container1 {
+}
+.body-bottom-content-container-text1 {
+}
+.body-bottom-content-container-subtext1 {
+}
+.body-bottom-content-container-button1 {
+}
+.body-bottom-content-container2 {
+}
+.body-bottom-content-container-text2 {
+}
+.body-bottom-content-container-subtext2 {
+}
+.body-bottom-content-container-button2 {
+}
+.body-bottom-content-container3 {
+}
+.body-bottom-content-container-text3 {
+}
+.body-bottom-content-container-subtext3 {
+}
+.body-bottom-content-container-button3 {
+}
+.body-bottom-content-container4 {
+}
+.body-bottom-content-container-text4 {
+}
+.body-bottom-content-container-subtext4 {
+}
+.body-bottom-content-container-button4 {
+}
+.body-bottom-slider-content-container {
+}
+.body-bottom-slider-content-container-testemonials {
+}
+.body-bottom-slider-content-container-slider {
+}
+.body-bottom-slider-content-container-slider-testemonial1 {
+}
+.body-bottom-slider-content-container-slider-testemonial2 {
+}
+.body-bottom-slider-content-container-slider-testemonial3 {
+}
+.footer {
+}
+.footer-logo {
+}
+.footer-title {
+}
+.footer-content {
+}
+.footer-content-adress {
+}
+.footer-content-contacts {
+}
+.footer-content-socialmedia {
+}
+.footer-content-socialmedia-title {
+}
+.footer-content-socialmedia-icons {
+}
+.footer-copyrights {
+}
