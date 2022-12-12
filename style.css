@@ -14,12 +14,8 @@ ul li{list-style: none;}
 img{vertical-align: top;}
 h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
 
-.main-block {
-    background-color: linear-gradient(180deg, #2081cc 0%, #da0808 19.4%);
-    max-width: 1600px;
-    max-height: 4192px;
-    position: relative;
-    
+.body {
+    margin: 0px auto;
 }
 
 .header {
@@ -31,8 +27,6 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
 .header-content-menu {
 }
 .header-content-men-button {
-}
-.body {
 }
 .body-top {
 }
