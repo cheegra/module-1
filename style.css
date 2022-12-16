@@ -14,95 +14,65 @@ ul li{list-style: none;}
 img{vertical-align: top;}
 h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
 
-.body {
-    margin: 0px auto;
-}
-
 .header {
 }
-.header-content {
+.header__logo {
 }
-.header-content-logo {
+.header__menu {
 }
-.header-content-menu {
-}
-.header-content-men-button {
+.header__menu_button {
 }
 .body-top {
 }
-.body-top-content {
+.body-top__img {
 }
-.body-top-title {
+.body-top__title {
 }
-.body-top-title-text {
+.title {
 }
-.body-top-text {
+.body-top__subtittle {
 }
-.body-top-button {
+.body-top__button {
 }
-.body-top-button-text {
+.body-mid {
 }
-.body-mid-content {
+.body-mid__img {
 }
-.body-mid-title {
+.body-mid__tittle {
 }
-.body-mid-title-text {
+.body-mid__subtittle {
 }
-.body-mid-text {
+.body-bot {
 }
-.body-bottom {
+.body-bot__title {
 }
-.body-bottom-title {
+.body-bot__subtitle {
 }
-.body-bottom-title-text {
+.body-bot-content {
 }
-.body-bottom-title-subtext {
+.body-content-container {
 }
-.body-bottom-content {
+.body-content-container_img {
 }
-.body-bottom-content-container1 {
+.body-content-container-title {
 }
-.body-bottom-content-container-text1 {
+.body-content-container-subtitle {
 }
-.body-bottom-content-container-subtext1 {
+.body-slider {
 }
-.body-bottom-content-container-button1 {
+.body-slider__title {
 }
-.body-bottom-content-container2 {
+.body-slider__content-container {
 }
-.body-bottom-content-container-text2 {
+.body-slider__content-container__title {
 }
-.body-bottom-content-container-subtext2 {
+.body-slider__content-container__subtitle {
 }
-.body-bottom-content-container-button2 {
+.body-slider__content-container__text {
 }
-.body-bottom-content-container3 {
+.body-slider__content-container__img {
 }
-.body-bottom-content-container-text3 {
-}
-.body-bottom-content-container-subtext3 {
-}
-.body-bottom-content-container-button3 {
-}
-.body-bottom-content-container4 {
-}
-.body-bottom-content-container-text4 {
-}
-.body-bottom-content-container-subtext4 {
-}
-.body-bottom-content-container-button4 {
-}
-.body-bottom-slider-content-container {
-}
-.body-bottom-slider-content-container-testemonials {
-}
-.body-bottom-slider-content-container-slider {
-}
-.body-bottom-slider-content-container-slider-testemonial1 {
-}
-.body-bottom-slider-content-container-slider-testemonial2 {
-}
-.body-bottom-slider-content-container-slider-testemonial3 {
+.body-slider__button {
 }
 .footer {
 }
@@ -112,15 +82,15 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
 }
 .footer-content {
 }
-.footer-content-adress {
+.footer-content__adress {
 }
-.footer-content-contacts {
+.footer-content__contacts {
 }
-.footer-content-socialmedia {
+.footer-socialmedia {
 }
-.footer-content-socialmedia-title {
+.footer-socialmedia__title {
 }
-.footer-content-socialmedia-icons {
+.footer-socialmedia__icons {
 }
 .footer-copyrights {
 }
